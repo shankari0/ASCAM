@@ -1,0 +1,16 @@
+streamlit
+streamlit-pdf-viewer
+pymupdf
+chromadb
+sentence-transformers
+transformers
+torch
+torchvision
+pillow
+groq
+requests
+python-dotenv
+edge-tts
+sentencepiece
+sacremoses
+accelerate
